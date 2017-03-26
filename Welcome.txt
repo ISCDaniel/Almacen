@@ -1,1 +1,3 @@
-Welcome to the initial project
+Introduccion a UML (Enterprise Architect) (Casos de uso, diagramas de actividad y de secuencia):
+	https://www.youtube.com/watch?v=PkThxFfGKt4#t=6.921519
+
